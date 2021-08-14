@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621793357707",
+    "project_id": "smiley-55597",
+    "storage_bucket": "smiley-55597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621793357707:android:24f43c77872bdefb74898e",
+        "android_client_info": {
+          "package_name": "com.example.smiley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621793357707-oqm3ignkr3j7ngm3mlnvhuian5al90o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRN8HnZYJpxj_Yv7EWWf0qvzaHujd3jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621793357707-oqm3ignkr3j7ngm3mlnvhuian5al90o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

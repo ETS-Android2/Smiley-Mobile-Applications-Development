@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smile</string>
+    <string name="home_activity">Home Activity</string>
+
+
+    <array name="Author">
+        <item>Oscar Wilde</item>
+        <item>Marcus Tullius Cicero</item>
+        <item>Mae West</item>
+        <item>Mark Twain</item>
+        <item>Oscar Wilde</item>
+    </array>
+
+    <array name="Quote">
+        <item>Be yourself everyone else is already taken.</item>
+        <item>A room without books is like a body without a soul.</item>
+        <item>You only live once, but if you do it right, once is enough</item>
+        <item>If you tell the truth, you don\'t have to remember anything</item>
+        <item>Always forgive your enemies nothing annoys them so much</item>
+    </array>
+
+</resources>
